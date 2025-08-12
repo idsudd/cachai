@@ -6,6 +6,14 @@ Welcome to the LLM that brings Chile's vibrant linguistic landscape to the foref
 
 The future of AI is speaking Chilean, cachai?
 
+## CURRENT STATE OF THE PROJECT
+
+We want to train an Automatic Speech Recognition (ASR) model for Chilean Spanish. Current ASR models like Whisper tend to transcribe with Argentine variants, and other providers have low accuracy (often below 80%) for our target dialect. Our goal is to create a more accurate model for academic research and open-source release. If you are interested in sponsoring or supporting this process, please write to **alonsoastroza@udd.cl**.
+
+| ![whatsapp.png](images/whatsapp.png) | 
+|:--:| 
+| *This is an example of how private ASR models transcribe Chilean Spanish. Hard to believe if you don’t speak the language, but this is the reality for many languages and dialects around the world.* |
+
 ## Motivation
 
 Generative AI is revolutionizing global communication, with the potential to mediate all our interactions in the near future. However, [current models predominantly excel in standard English](https://blog.modernmt.com/making-generative-ai-multilingual-at-scale/), leaving less-represented languages and dialects at a significant disadvantage. This disparity is particularly evident in the case of **Chilean Spanish**, a dialect so unique that it challenges the very notion of what constitutes Spanish.
